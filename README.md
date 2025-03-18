@@ -54,8 +54,8 @@ Ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/react-shopping-cart.git
-cd react-shopping-cart
+git clone https://github.com/Vinay642CoderG/ecommerce-app-react.git
+cd ecommerce-app-react
 
 
 2. Install dependencies:
@@ -63,7 +63,7 @@ npm install
 
 
 3. Start the development server:
-npm dev
+npm run dev
 
 
 4. Open your browser and navigate to `http://localhost:5173`.
