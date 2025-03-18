@@ -88,7 +88,8 @@ const products = await response.json();
 
 ## Folder Structure
 
-ecommerce-app/
+<pre>
+ecommerce-app/ 
 ├──public/
 │ ├── vite.svg
 ├── src/
@@ -111,6 +112,7 @@ ecommerce-app/
 ├── package.json
 ├── README.md
 └── vite.config.js
+</pre>
 
 
 ## Contributing
