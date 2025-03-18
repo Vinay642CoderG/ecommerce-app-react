@@ -13,7 +13,6 @@ Live View : https://Vinay642CoderG.github.io/ecommerce-app-react
 - [API Integration](#api-integration)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
