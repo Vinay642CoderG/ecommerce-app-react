@@ -2,6 +2,8 @@
 
 Welcome to the React Shopping Cart Application! This project is a simple yet powerful e-commerce platform built with React.js. It features product listing, cart management, and API integration for fetching product data dynamically.
 
+Live View : https://Vinay642CoderG.github.io/ecommerce-app-react
+
 ## Table of Contents
 
 - [Features](#features)
